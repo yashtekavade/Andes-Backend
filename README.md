@@ -78,13 +78,10 @@ You will create the following endpoints for both models:
 3. Push your code to your GitHub repository.
 4. Submit the link to your GitHub repository along with a Postman collection for the API endpoints you implemented.
 
-## Bonus (Optional)
-
-- Implement pagination for the user and task fetching endpoints.
-- Deploy your API to a cloud platform (e.g., Heroku, Vercel, or AWS) and share the deployed URL.
-
 ## Conclusion
 
 This challenge is an opportunity for you to showcase your backend development capabilities. We look forward to reviewing your submission!
 
 If you have any questions during the challenge, feel free to reach out.
+
+email:- andesnow1604@gmail.com ; yashtekavade@gmail.com
